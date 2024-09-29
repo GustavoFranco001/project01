@@ -1,2 +1,2 @@
-# project01
+# project
 Project SPRINT 5
