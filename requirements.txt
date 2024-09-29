@@ -1,4 +1,4 @@
-pandas
-ploty-express 
-streamlit
-nbformat
+pandas ==
+ploty-express ==
+streamlit ==
+nbformat ==
