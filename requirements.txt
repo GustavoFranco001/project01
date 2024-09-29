@@ -1,4 +1,4 @@
-conda install pandas
-conda install ploty-express
-conda install streamlit
-conda install nbformat
+pandas
+ploty-express 
+streamlit
+nbformat
