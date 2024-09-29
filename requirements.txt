@@ -1,4 +1,4 @@
-pandas ==
-ploty-express ==
-streamlit ==
-nbformat ==
+pandas == 2.2.2
+ploty-express == 5.24.1
+streamlit == 1.38.0
+nbformat == 5.10.4

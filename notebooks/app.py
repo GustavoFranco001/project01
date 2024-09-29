@@ -14,3 +14,5 @@ if hist_button: # se o botão for acionado
 
     # exibir um gráfico Plotly interativo
     st.plotly_chart(fig, use_container_width=True)
+
+    
