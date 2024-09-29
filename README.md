@@ -1,4 +1,4 @@
 # project
 Project SPRINT 5
 
-Create a env using requirements.txt librerys 
+A aplicação busca referenciar anuncios de veículos baseados no odometro dos veículos
